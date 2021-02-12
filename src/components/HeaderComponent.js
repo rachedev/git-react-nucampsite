@@ -83,7 +83,6 @@ class Header extends Component {
                                     <i className="fa fa-sign-in fa-lg" /> Login
                                 </Button>
                             </span>
-
                         </Collapse>
                     </div>
                 </Navbar>
